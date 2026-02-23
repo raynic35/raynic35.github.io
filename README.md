@@ -1,11 +1,9 @@
-# Raymund Nickel - Mobile Apps
-
 Welcome to my developer page. Here you can find information about my apps and official resources for the Google Play Store.
 
 ## 📱 My Apps
 
 ### **PaaaKu**
-A unique mobile experience designed for you. Check it out on the Google Play Store!
+An app that helps you pack your motorhome without exceeding weight limits.
 
 * **Version:** 1.2.0
 * **Status:** Published
