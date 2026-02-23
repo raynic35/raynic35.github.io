@@ -1,7 +1,7 @@
-# Raynic35 - Mobile Apps
+# Raymund Nickel - Mobile Apps
 
 Welcome to my developer page. Here you can find information about my apps and official resources for the Google Play Store.
-
+Github User: raynic35
 ---
 
 ## 📱 My Apps
@@ -9,6 +9,7 @@ Welcome to my developer page. Here you can find information about my apps and of
 ### **PaaaKu**
 A unique mobile experience designed for you. Check it out on the Google Play Store!
 
+* **Version:** 1.2.0
 * **Status:** Published
 * **Support:** [Contact Support](mailto:rn@pagex.net)
 * **Legal:** [Privacy Policy](https://sites.google.com/view/paaaku/privacy-policy-en)
@@ -30,4 +31,4 @@ For transparency and compliance with Google Play and AdMob policies:
 * **Authorized Sellers:** This domain hosts the official `app-ads.txt` for ad verification.
 
 ---
-© 2026 raynic35. Built with GitHub Pages.
+© 2026 Raymund Nickel. Built with GitHub Pages.
